@@ -1,0 +1,9 @@
+reaction,formula,reaction
+R1,2 accoa_c -> 1  aacoa_c + 1 coa_c,
+R2,1 aacoa_c + 1  h_c + 1 nadh_c -> 1 3hbcoa_c + 1 nad_c,
+R3,1 3hbcoa_c -> 1 ctncoa_c + 1 h2o_c,
+R4,1 ctncoa_c + 1 h_c + 1 nadh_c -> 1 btcoa_c + 1 nad_c ,
+R5,1 btcoa_c + 1 h_c +1 nadh_c -> 1 btal_c + 1 coa_c + 1 nad_c,
+R6,1 btal_c + 1 h_c + 1 nadh_c -> 1 1btol_c + 1 nad_c,
+R7,1 1btol_c -> 1 1btol_e,
+EX_1btol,1 1btol_e  ->,
